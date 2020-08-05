@@ -18,10 +18,6 @@ This bot will send alert directly on your discord server , easy to install.
 
 2.Clone the repository
 
-```
-https://github.com/ElNelyo/rdx_discord_bot.git
-```
-
 3.Add "ensure rdx_discord_bot" to your server.cfg
 
 4.Create your Discord Bot
