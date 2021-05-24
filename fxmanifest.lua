@@ -10,7 +10,7 @@ description 'littlebot'
 
 -- Server
 server_scripts {
-	'@redm_extended/locale.lua',
+	'@rdx_core/locale.lua',
 	'locales/en.lua',
 	'locales/fr.lua',
 	'config.lua',
@@ -19,7 +19,7 @@ server_scripts {
 
 -- Client
 client_scripts {
-	'@redm_extended/locale.lua',
+	'@rdx_core/locale.lua',
 	'locales/en.lua',
 	'locales/fr.lua',
 	'client/main.lua'
