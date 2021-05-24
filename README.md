@@ -9,7 +9,7 @@ This bot will send alert directly on your discord server , easy to install.
 ## Requirements
 
 [rdx_society]
-[redm_extended]
+[rdx_core]
 
 
 ## Installation
@@ -32,7 +32,7 @@ This bot will send alert directly on your discord server , easy to install.
 
 5.Edit **config.lua** from _rdx\_discord\_bot_ and paste your **webhook link**
 
-6.Add these lines in **redm_extended/server/main.lua**
+6.Add these lines in **rdx_core/server/main.lua**
 
 
 
